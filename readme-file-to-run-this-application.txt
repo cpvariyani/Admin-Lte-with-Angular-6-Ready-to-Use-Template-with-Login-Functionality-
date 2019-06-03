@@ -1,0 +1,1 @@
+just run 'npm-install' command, that would install all the required module as per package.json
